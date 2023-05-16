@@ -2048,6 +2048,7 @@ input, select, textarea {
 /* added code below */
 		.icon.solid.fa-file-pdf {
 			font-family: 'Lato', sans-serif;
+			font-weight: 400;
 		  }
 
 /* added code above */
